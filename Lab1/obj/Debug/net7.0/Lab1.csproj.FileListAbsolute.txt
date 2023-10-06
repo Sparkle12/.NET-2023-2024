@@ -1,0 +1,28 @@
+C:\Users\Adi\Desktop\Programare\C#\Optional web\Lab1\bin\Debug\net7.0\Lab1.exe
+C:\Users\Adi\Desktop\Programare\C#\Optional web\Lab1\bin\Debug\net7.0\Lab1.deps.json
+C:\Users\Adi\Desktop\Programare\C#\Optional web\Lab1\bin\Debug\net7.0\Lab1.runtimeconfig.json
+C:\Users\Adi\Desktop\Programare\C#\Optional web\Lab1\bin\Debug\net7.0\Lab1.dll
+C:\Users\Adi\Desktop\Programare\C#\Optional web\Lab1\bin\Debug\net7.0\Lab1.pdb
+C:\Users\Adi\Desktop\Programare\C#\Optional web\Lab1\obj\Debug\net7.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adi\Desktop\Programare\C#\Optional web\Lab1\obj\Debug\net7.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\Adi\Desktop\Programare\C#\Optional web\Lab1\obj\Debug\net7.0\Lab1.AssemblyInfo.cs
+C:\Users\Adi\Desktop\Programare\C#\Optional web\Lab1\obj\Debug\net7.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Adi\Desktop\Programare\C#\Optional web\Lab1\obj\Debug\net7.0\Lab1.dll
+C:\Users\Adi\Desktop\Programare\C#\Optional web\Lab1\obj\Debug\net7.0\refint\Lab1.dll
+C:\Users\Adi\Desktop\Programare\C#\Optional web\Lab1\obj\Debug\net7.0\Lab1.pdb
+C:\Users\Adi\Desktop\Programare\C#\Optional web\Lab1\obj\Debug\net7.0\Lab1.genruntimeconfig.cache
+C:\Users\Adi\Desktop\Programare\C#\Optional web\Lab1\obj\Debug\net7.0\ref\Lab1.dll
+C:\Users\Adi\Desktop\Programare\C#\OptionalWeb\Lab1\bin\Debug\net7.0\Lab1.exe
+C:\Users\Adi\Desktop\Programare\C#\OptionalWeb\Lab1\bin\Debug\net7.0\Lab1.deps.json
+C:\Users\Adi\Desktop\Programare\C#\OptionalWeb\Lab1\bin\Debug\net7.0\Lab1.runtimeconfig.json
+C:\Users\Adi\Desktop\Programare\C#\OptionalWeb\Lab1\bin\Debug\net7.0\Lab1.dll
+C:\Users\Adi\Desktop\Programare\C#\OptionalWeb\Lab1\bin\Debug\net7.0\Lab1.pdb
+C:\Users\Adi\Desktop\Programare\C#\OptionalWeb\Lab1\obj\Debug\net7.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adi\Desktop\Programare\C#\OptionalWeb\Lab1\obj\Debug\net7.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\Adi\Desktop\Programare\C#\OptionalWeb\Lab1\obj\Debug\net7.0\Lab1.AssemblyInfo.cs
+C:\Users\Adi\Desktop\Programare\C#\OptionalWeb\Lab1\obj\Debug\net7.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Adi\Desktop\Programare\C#\OptionalWeb\Lab1\obj\Debug\net7.0\Lab1.dll
+C:\Users\Adi\Desktop\Programare\C#\OptionalWeb\Lab1\obj\Debug\net7.0\refint\Lab1.dll
+C:\Users\Adi\Desktop\Programare\C#\OptionalWeb\Lab1\obj\Debug\net7.0\Lab1.pdb
+C:\Users\Adi\Desktop\Programare\C#\OptionalWeb\Lab1\obj\Debug\net7.0\Lab1.genruntimeconfig.cache
+C:\Users\Adi\Desktop\Programare\C#\OptionalWeb\Lab1\obj\Debug\net7.0\ref\Lab1.dll
